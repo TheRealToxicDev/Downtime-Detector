@@ -4,7 +4,7 @@ This is a small bot that notifies a server through a message when another bot go
 
 The main use is to let users know when a bot goes offline and becomes unusable. 
 
-It also lets users know once said bot goes back online. This is useful mostly for server owners with self-hosted bots and need a way of getting notified when they bots go offline. For better results, this bot should be hosted on a service like [Heroku](https://www.heroku.com/).
+It also lets users know once said bot goes back online. This is useful mostly for server owners with self-hosted bots and need a way of getting notified when their bots go offline.
 
 ## Dependencies
 

@@ -50,7 +50,7 @@ You can add this bot to your server by clicking in the image below:
 Downtime Detector was made to be Different but with the same features that everyone knows and loves
 The original design for my Project was made by [moonstar-x](https://github.com/moonstar-x/discord-downtime-notifier), though it still acts and functions the same
 A lot of what the bot does and how it works had to be rewritten to allow the Dashboard to work.
-Though I have done a complete rewrite on the backend of the bot and changed a lot of the code and features.
+I have done a complete rewrite on the backend of the bot and changed a lot of the code and features.
 
 ## Features
 - Downtime Notifications

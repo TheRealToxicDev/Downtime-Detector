@@ -45,3 +45,15 @@ To get a list of all the bots that are being monitored, run the command `dd>help
 
 You can add this bot to your server by clicking in the image below:
 [Add this bot to your server](https://discord.com/api/oauth2/authorize?client_id=653755293943201793&permissions=8&scope=bot)
+
+## Credits
+Downtime Detector was made to be Different but with the same features that everyone knows and loves
+The original design for my Project was made by [moonstar-x](https://github.com/moonstar-x/discord-downtime-notifier),
+Though I have done a complete rewrite on the backend of the bot and changed a lot of the code and features.
+
+## Features
+- Downtime Notifications
+- Broadcast Downtime Updates to TEXT or NEWS Channels
+- Website with Dashboard (Settings can be changed in the Dashboard) | Coming Soon
+- 24/7 Hosting thanks to Heroku
+

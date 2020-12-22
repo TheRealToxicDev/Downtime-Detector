@@ -14,6 +14,8 @@ It also lets users know once said bot goes back online. This is useful mostly fo
 | [fs](https://www.npmjs.com/package/fs)                | File system utilities for Node.js.                                       |
 | [logger](https://github.com/moonstar-x/logger)        | A small logger module for Node.js.                                       |
 | [realm](https://www.npmjs.com/package/realm)          | Realm is a mobile database: an alternative to SQLite & key-value stores. |
+| [mongoose](https://www.mongodb.com/)                  | Mongoose is a Database Provider used for both Web and Software Development |
+| [ejs](https://ejs.co/)                                | Embedded JavaScript is a simple templating language that lets you generate HTML markup with plain JavaScript. |
 
 ---
 
